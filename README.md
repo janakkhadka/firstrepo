@@ -1,3 +1,4 @@
 # firstrepo
 Learning git
-#new text
+**Learning git is really awesome**
+_markdown fun_
